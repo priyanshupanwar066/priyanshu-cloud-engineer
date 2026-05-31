@@ -1,0 +1,54 @@
+
+> dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 704ms
+
+ GET / 200 in 2.5s (next.js: 2.1s, application-code: 394ms)
+ GET / 200 in 103ms (next.js: 6ms, application-code: 97ms)
+ GET /projects 200 in 862ms (next.js: 680ms, application-code: 182ms)
+ GET /certifications 200 in 773ms (next.js: 605ms, application-code: 168ms)
+ GET /resume 200 in 757ms (next.js: 652ms, application-code: 105ms)
+✓ Compiled in 114ms
+ GET /resume 200 in 507ms (next.js: 173ms, application-code: 334ms)
+ GET /resume 200 in 248ms (next.js: 4ms, application-code: 244ms)
+ GET /resume 200 in 197ms (next.js: 105ms, application-code: 91ms)
+ GET /resume 200 in 200ms (next.js: 10ms, application-code: 190ms)
+ GET /resume 200 in 318ms (next.js: 7ms, application-code: 311ms)
+✓ Compiled in 472ms
+ GET /resume 200 in 1282ms (next.js: 568ms, application-code: 714ms)
+ GET /resume 200 in 252ms (next.js: 30ms, application-code: 222ms)
+✓ Compiled in 71ms
+ GET /resume 200 in 491ms (next.js: 183ms, application-code: 308ms)
+ GET /resume 200 in 151ms (next.js: 10ms, application-code: 141ms)
+✓ Compiled in 238ms
+ GET /resume 200 in 1215ms (next.js: 469ms, application-code: 745ms)
+ GET /resume 200 in 378ms (next.js: 22ms, application-code: 356ms)
+✓ Compiled in 110ms
+ GET /resume 200 in 1232ms (next.js: 432ms, application-code: 799ms)
+ GET /resume 200 in 362ms (next.js: 45ms, application-code: 317ms)
+✓ Compiled in 118ms
+ GET /resume 200 in 1006ms (next.js: 439ms, application-code: 567ms)
+ GET /resume 200 in 271ms (next.js: 20ms, application-code: 251ms)
+✓ Compiled in 81ms
+ GET /resume 200 in 776ms (next.js: 347ms, application-code: 429ms)
+ GET /resume 200 in 185ms (next.js: 16ms, application-code: 169ms)
+✓ Compiled in 52ms
+ GET /resume 200 in 1014ms (next.js: 301ms, application-code: 713ms)
+ GET /resume 200 in 388ms (next.js: 25ms, application-code: 362ms)
+✓ Compiled in 145ms
+ GET /resume 200 in 752ms (next.js: 303ms, application-code: 449ms)
+ GET /resume 200 in 213ms (next.js: 16ms, application-code: 197ms)
+✓ Compiled in 135ms
+ GET /resume 200 in 551ms (next.js: 216ms, application-code: 336ms)
+ GET /resume 200 in 152ms (next.js: 13ms, application-code: 139ms)
+✓ Compiled in 93ms
+✓ Compiled in 107ms
+ GET /resume 200 in 1376ms (next.js: 592ms, application-code: 784ms)
+ GET /resume 200 in 399ms (next.js: 35ms, application-code: 365ms)
+✓ Compiled in 62ms
+ GET /resume 200 in 918ms (next.js: 439ms, application-code: 479ms)
+ GET /resume 200 in 234ms (next.js: 21ms, application-code: 213ms)
